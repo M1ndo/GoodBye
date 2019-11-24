@@ -18,7 +18,7 @@ print ("""
 
                      GoodBye v1
 ..................................................................
-Created By ybenel - Find Me On Twitter: @_ybenel
+               Made By ybenel - ybenel@molero.xyz
 
 	MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 	MMMMMMMMMMNKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
